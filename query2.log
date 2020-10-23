@@ -1,0 +1,12 @@
+query-2: Tiempo medio transcurrido
+   productline    |       media        
+------------------+--------------------
+ Classic Cars     | 3.9611054247697032
+ Trains           | 5.7500000000000000
+ Motorcycles      | 3.9078212290502793
+ Ships            | 3.4816513761467890
+ Trucks and Buses | 4.4470989761092150
+ Planes           | 3.8761904761904762
+ Vintage Cars     | 3.5177993527508091
+(7 filas)
+

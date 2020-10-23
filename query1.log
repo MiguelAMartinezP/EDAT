@@ -1,0 +1,30 @@
+query-1: cantidad total de dinero abonado
+          customername          | customernumber |   total   
+--------------------------------+----------------+-----------
+ Euro+ Shopping Channel         |            141 | 715738.98
+ Mini Gifts Distributors Ltd.   |            124 | 584188.24
+ Australian Collectors, Co.     |            114 | 180585.07
+ Dragon Souveniers, Ltd.        |            148 | 156251.03
+ Annas Decorations, Ltd         |            276 | 137034.22
+ Corporate Gift Ideas Co.       |            321 | 132340.78
+ Saveley & Henriot, Co.         |            146 | 130305.35
+ Online Diecast Creations Co.   |            363 | 116449.29
+ Corrida Auto Replicas, Ltd     |            458 | 112440.09
+ Tokyo Collectables, Ltd        |            398 | 105548.73
+ Technics Stores Inc.           |            161 | 104545.22
+ Baane Mini Imports             |            121 | 104224.79
+ Souveniers And Things Co.      |            282 |  91655.61
+ Amica Models & Co.             |            249 |  82223.23
+ Scandinavian Gift Ideas        |            448 |  76776.44
+ Super Scale Inc.               |            455 |  70378.65
+ Canadian Gift Exchange Network |            202 |  70122.19
+ Qu�bec Home Shopping Network |            233 |  68977.67
+ Mini Wheels Co.                |            129 |  66710.56
+ Auto Associ�s & Cie.         |            256 |  58876.41
+ Classic Gift Ideas, Inc        |            339 |  57939.34
+ Australian Gift Network, Co    |            333 |  55190.16
+ Mini Auto Werke                |            452 |  51059.99
+ West Coast Collectables Co.    |            475 |  43748.72
+ Cambridge Collectables Co.     |            173 |  32198.69
+(25 filas)
+

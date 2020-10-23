@@ -1,0 +1,9 @@
+query3: Empleados que reportar a otro empleado
+ employeenumber | lastname  | reportsto 
+----------------+-----------+-----------
+           1088 | Patterson |      1056
+           1102 | Bondur    |      1056
+           1143 | Bow       |      1056
+           1621 | Nishi     |      1056
+(4 filas)
+
